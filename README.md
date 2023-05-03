@@ -1,4 +1,4 @@
-# Body Mass Index Application
+# Body Mass Index Application 👨‍⚕️
 
 ## Requirements Analysis
 
@@ -18,11 +18,3 @@ As a user I want to:
 2. insert my weight
 3. see my BMI value
 4. know if I am underweight, overweight or in the normal range
-
-## Next Steps
-
-1. install a command line terminal
-2. install Git
-3. create an account on GitHub.com
-4. create Git Repository for project
-5. create tasks on the GitHub Repository
